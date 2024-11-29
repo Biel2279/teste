@@ -17,3 +17,7 @@ git remote add origin <LINK DO REPOSITORIO DO GIT HUB>
 // ENVIAR PARA O REPOSITORIO DA NUVEM
 
 git push
+
+// PUXAR ALTERAÇÕES DE OUTRAS PESSOAS 
+
+git pull
